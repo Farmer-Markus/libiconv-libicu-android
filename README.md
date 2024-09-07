@@ -1,5 +1,6 @@
 libiconv-libicu-android
 =======================
+(minimal fix to work with s25rttr for android)
 
 Port of libiconv and libicu to Android
 
